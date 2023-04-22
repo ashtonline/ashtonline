@@ -1,4 +1,11 @@
-### Hi there 👋
+### I'm ashtonline, hiiii
+
+- I'm a newbie in coding
+- Currently learning C++ and Pyhton
+- Interested in Game and Web Development
+- Using VRChat as an excuse to learn how to use Blender
+
+
 
 <!--
 **ashtonline/ashtonline** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
