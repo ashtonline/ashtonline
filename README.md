@@ -1,9 +1,10 @@
 ### I'm antibacklash, hiiii
 
 - I'm a newbie in coding
-- Currently learning C++ and Pyhton
-- Interested in Game and Web Development
-- Using VRChat as an excuse to learn how to use Blender
+- [Currently learning C++ and Pyhton] Kinda not anymore
+- Currently learning to use Next.js and React as a part of a Front End project
+- Interested in Game and Web Development (I focus on doing Web Development myself) 
+- Using VRChat as an excuse to learn how to use Blender (still to lazy to actually open blender)
 
 
 
